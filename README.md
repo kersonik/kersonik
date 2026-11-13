@@ -4,7 +4,22 @@ IT student and systems enthusiast from Czechia, building self-hosted tools, Linu
 
 - **Studying:** Information Technology at SŠPU Opava
 - **Environment:** Arch Linux (Hyprland / Wayland), Oracle Cloud VPS, Tailscale mesh
-- **Focus Areas:** Systems programming (C/C++), backend architecture, self-hosted infrastructure, embedded hardware, and LLM tooling (MCP / local inference)
+- **Focus Areas:** Systems programming (C/C++), network engineering, self-hosted infrastructure, and LLM tooling
+- **Workflow:** Terminal-first approach, pragmatic debugging, and strong focus on privacy (telemetry removal)
+
+---
+
+### Currently diving into 🔭
+- **Low-level C:** Pointer arithmetic, dynamic memory allocation (`malloc`/`realloc`/`free`), memory structures, and heap/stack management.
+- **Networking:** Cisco concepts (routing, DHCP, TCP/IP stack, physical layer), mesh VPN routing, and `sshfs` remote mounts.
+- **Local AI:** Deploying local LLM architectures (LM Studio, Open WebUI) with dedicated GPU acceleration.
+
+---
+
+### Beyond the Terminal 📻
+- **RF & Radiocommunications:** Operating VHF/UHF/PMR transceivers (TIDRADIO TD-H3 Plus) and monitoring airbands. Building DIY Tiger Tail counterpoise antennas (achieved a 40+ km QRP contact at 0.5W).
+- **Linux Ricing & Modding:** Managing Arch Linux environments (`systemd`, `journalctl`, `yay`/AUR, Sunshine & Moonlight). Modding desktop clients (JS/DOM patching via Spicetify), tuning Linux audio (easyeffects, LV2 plugins), and game server optimization.
+- **Homelab & Cloud:** Automated Bash provisioning for Oracle Cloud instances (x86 & ARM), managing secure cross-device sync (Syncthing), and setting up media pipelines (`ffmpeg`, `yt-dlp`).
 
 ---
 
@@ -24,12 +39,15 @@ IT student and systems enthusiast from Czechia, building self-hosted tools, Linu
 
 ### Tech & Tooling
 
-```text
-Systems & Infra    Arch Linux, Ubuntu/Debian (OCI VPS), Wayland (Hyprland), Systemd, Tailscale, OpenVPN
-Languages          C, C++, Python, TypeScript, JavaScript, PHP, Bash/Zsh, SQL
-Web & Backend      FastAPI, Flask, React, Tailwind CSS, SQLite, Nginx, Caddy, ripgrep
-AI & Hardware      YOLOv8, MCP, LM Studio / Open WebUI, Arduino, Serial & RF Telemetry
-```
+| | |
+| :--- | :--- |
+| **Systems & Infra** | Arch Linux, Ubuntu (OCI VPS), Wayland (Hyprland), Systemd, Tailscale, OpenVPN, SSH/sshfs |
+| **Networking** | Cisco concepts, Mesh routing, DNS management, TCP/IP |
+| **Languages** | C, C++, Python, TypeScript, JavaScript, PHP, Bash/Zsh, SQL |
+| **Web & Backend** | FastAPI, Flask, React, Tailwind CSS, SQLite, Nginx, ripgrep |
+| **Hardware & RF** | VHF/UHF Transceivers, Antenna building, Arduino, Serial communication |
+| **CLI & Tools** | Git, ffmpeg, yt-dlp, pacman/yay, DevTools debugging |
+| **AI** | YOLOv8, MCP, LM Studio, Open WebUI |
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,php,bash,arch,linux,fastapi,flask,react,tailwind,sqlite,nginx,arduino,git&theme=dark" alt="Tech Stack" />
